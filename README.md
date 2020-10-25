@@ -17,7 +17,7 @@ This is Limm_jk, Studying in CNU.
 I'm interested in Data Engineering & Back-End Engineering.  
 I want to challenge various projects and skills.  
 
-
+[![nopaste](https://ghrs.vercel.app/api/pin/?username=limm-jk&repo=fun-staurant)](https://github.com/Limm-jk/Fun-Staurant)
 <div align=left>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://limm-jk.tistory.com/)](https://limm-jk.tistory.com/) 
