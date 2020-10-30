@@ -14,8 +14,7 @@ AI를 더 공부해서 BioInformatics를 해보고 싶습니다!
 
 ### Hi There! 👋  
 This is Limm_jk, Studying in CNU.  
-I'm interested in Data Engineering & Back-End Engineering.  
-I want to challenge various projects and skills.  
+I'm interested in Data Engineering & Back-End Engineering.   
 <!--
 [![nopaste](https://ghrs.vercel.app/api/pin/?username=limm-jk&repo=fun-staurant)](https://github.com/Limm-jk/Fun-Staurant)
 <div align=left>-->
