@@ -21,9 +21,9 @@ Chungnam National Unversity / Computer Science Engineering (16.03~)
 Google Machine-Learning Bootcamp (20.10~)  
 
 - **Toy Project**  
-Sentimental Processing Using NLP(19.11)  
-Personal SNS Project with Spring-boot & MySQL(20.03)  
-Convenience(GS25, CU) Event & Recipe Chat_Bot Using Bot Framework by MS(20.07)  
+Sentimental Processing Using NLP (19.11)  
+Personal SNS Project with Spring-boot & MySQL (20.03)  
+Convenience(GS25, CU) Event & Recipe Chat_Bot Using Bot Framework (20.07)  
 <!--
 [![nopaste](https://ghrs.vercel.app/api/pin/?username=limm-jk&repo=fun-staurant)](https://github.com/Limm-jk/Fun-Staurant)
 <div align=left>-->
