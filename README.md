@@ -16,11 +16,11 @@ AI를 더 공부해서 BioInformatics를 해보고 싶습니다!
 This is Limm_jk, Studying in CNU.  
 I'm interested in Data Engineering & Back-End Engineering.   
 
-- Education  
+- **Education**  
 Chungnam National Unversity / Computer Science Engineering (16.03~)  
 Google Machine-Learning Bootcamp (20.10~)  
 
-- Toy Project  
+- **Toy Project**  
 Sentimental Processing Using NLP(19.11)  
 Personal SNS Project with Spring-boot & MySQL(20.03)  
 Convenience(GS25, CU) Event & Recipe Chat_Bot Using Bot Framework by MS(20.07)  
