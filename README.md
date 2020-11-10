@@ -18,7 +18,7 @@ I'm interested in Data Engineering & Back-End Engineering.
 
 - **Education**  
 Chungnam National Unversity / Computer Science Engineering (16.03~)  
-Google Machine-Learning Bootcamp (20.10~)  
+Google Korea Machine-Learning Bootcamp (20.10~)  
 
 - **Toy Project**  
 Sentimental Processing Using NLP (19.11)  
