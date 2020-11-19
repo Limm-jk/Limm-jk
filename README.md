@@ -23,7 +23,7 @@ Convenience(GS25, CU) Event & Recipe Chat_Bot Using Bot Framework (20.07)
 <div align=center>
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://limm-jk.tistory.com/)](https://limm-jk.tistory.com/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/limm-jk)](www.linkedin.com/in/limm-jk) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/limm-jk)](https://www.linkedin.com/in/limm-jk) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junkyu.lim.dev@gmail.com)](mailto:junkyu.lim.dev@gmail.com)
 </div>
   
