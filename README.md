@@ -5,12 +5,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Limm-jk)](https://hits.seeyoufarm.com) 
 
 </div>
-<!--
-### 안녕하세요 👋 저는 주니어 개발자 임준규입니다.  
-서버 분야를 열심히 공부하고 있습니다.⚡  
-그리고 재미있는 것들은 직접 써봐야 성이 풀리는 사람입니다😄😄   
-AI를 더 공부해서 BioInformatics를 해보고 싶습니다!
--->
 
 ### Hi There! 👋  
 This is Limm_jk, Studying in CNU.  
@@ -24,13 +18,18 @@ Google Korea Machine-Learning Bootcamp (20.10~)
 Sentimental Processing Using NLP (19.11)  
 Personal SNS Project with Spring-boot & MySQL (20.03)  
 Convenience(GS25, CU) Event & Recipe Chat_Bot Using Bot Framework (20.07)  
-<!--
-[![nopaste](https://ghrs.vercel.app/api/pin/?username=limm-jk&repo=fun-staurant)](https://github.com/Limm-jk/Fun-Staurant)
-<div align=left>-->
 
+<div align=center>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://limm-jk.tistory.com/)](https://limm-jk.tistory.com/) 
+<!div>
+  
+<!--
+repo pinned
+[![nopaste](https://ghrs.vercel.app/api/pin/?username=limm-jk&repo=fun-staurant)](https://github.com/Limm-jk/Fun-Staurant)
+<div align=left>
 
-<!--**Limm-jk/Limm-jk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+guide
+**Limm-jk/Limm-jk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
