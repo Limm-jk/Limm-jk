@@ -20,7 +20,7 @@ Personal SNS Project with Spring-boot & MySQL (20.03)
 Convenience(GS25, CU) Event & Recipe Chat_Bot Using Bot Framework (20.07)  
 
 <div align=center>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://limm-jk.tistory.com/)](https://limm-jk.tistory.com/) 
+![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://limm-jk.tistory.com/)](https://limm-jk.tistory.com/) 
 <!div>
   
 <!--
