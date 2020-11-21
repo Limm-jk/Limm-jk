@@ -32,7 +32,7 @@ repo pinned
 [![nopaste](https://ghrs.vercel.app/api/pin/?username=limm-jk&repo=fun-staurant)](https://github.com/Limm-jk/Fun-Staurant)
 <div align=left>
 
-guide
+# guide
 **Limm-jk/Limm-jk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
