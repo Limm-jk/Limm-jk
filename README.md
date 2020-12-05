@@ -19,9 +19,9 @@ Sentimental Processing Using NLP (19.11)
 Personal SNS Project with Spring-boot & MySQL (20.03)  
 Convenience(GS25, CU) Event & Recipe Chat_Bot Using Bot Framework (20.07)    
 
- - **Skill**
- Python
- Tensorflow
+ - **Skill**  
+ Python  
+ Tensorflow  
 
 
 <div align=center>
