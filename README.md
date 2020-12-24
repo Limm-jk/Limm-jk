@@ -10,6 +10,8 @@
 This is Limm_jk, Studying in CNU.  
 I'm interested in Data Engineering & Back-End Engineering.   
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=limm-jk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - **Education**  
 Chungnam National Unversity / Computer Science Engineering (16.03~)  
 Google Korea Machine-Learning Bootcamp (20.10~)  
