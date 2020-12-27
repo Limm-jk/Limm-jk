@@ -8,7 +8,7 @@
 
 ### Hi There! 👋  
 This is Limm_jk, Studying in CNU.  
-I'm interested in Data Engineering & Back-End Engineering.   
+I'm interested in Data Engineering & Machine Learning.   
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=limm-jk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
