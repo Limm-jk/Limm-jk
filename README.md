@@ -8,7 +8,7 @@
 
 ### Hi There! 👋  
 This is Limm_jk, Studying in CNU.  
-I'm interested in Data Engineering & Machine Learning.   
+I'm interested in Data Engineering & Machine Learning / Server Engineering.   
 
 - **Education**  
 Chungnam National Unversity / Computer Science Engineering (16.03~)  
