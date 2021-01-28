@@ -12,8 +12,8 @@ I'm interested in Data Engineering & Machine Learning / Server Engineering.
 
 - **Education**  
 Chungnam National Unversity / Computer Science Engineering (16.03~)  
-Google Korea Machine-Learning Bootcamp (20.10~)  
-
+Google Korea Machine-Learning Bootcamp (20.10~21.01)  
+<!--
 - **Toy Project**  
 Sentimental Processing Using NLP (19.11)  
 Personal SNS Project with Spring-boot & MySQL (20.03)  
@@ -23,7 +23,7 @@ Convenience(GS25, CU) Event & Recipe Chat_Bot Using Bot Framework (20.07)
  Python  
  Tensorflow  
 
-
+-->
 <div align=center>
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://limm-jk.tistory.com/)](https://limm-jk.tistory.com/) 
