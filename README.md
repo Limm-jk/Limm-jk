@@ -8,11 +8,12 @@
 
 ### Hi There! 👋  
 This is Limm_jk, Studying in CNU.  
-I'm interested in Data Engineering & Machine Learning / Server Engineering.   
+I'm interested in ML & Server.
 
 - **Education**  
 Chungnam National Unversity / Computer Science Engineering (16.03~)  
 Google Korea Machine-Learning Bootcamp (20.10~21.01)  
+
 <!--
 - **Toy Project**  
 Sentimental Processing Using NLP (19.11)  
