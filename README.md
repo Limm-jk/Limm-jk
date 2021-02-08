@@ -14,6 +14,7 @@ I'm interested in ML & Server.
 Chungnam National Unversity / Computer Science Engineering (16.03~)  
 Google Korea Machine-Learning Bootcamp (20.10~21.01)  
 
+![limm-jk's GitHub stats](https://github-readme-stats.vercel.app/api?username=limm-jk&show_icons=true&theme=radical)
 <!--
 - **Toy Project**  
 Sentimental Processing Using NLP (19.11)  
