@@ -4,7 +4,7 @@
 
 </div>
 
-### Junkyu Lim
+### Junkyu Lim ([Portfolio](https://limm-jk.notion.site/Junkyu-Lim-1ce9729d1ffa4c7898e7711ec94fe8be))
 
 - **Education**  
 Chungnam National Unversity / Computer Science Engineering (16.03~)  
