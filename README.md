@@ -7,12 +7,13 @@
 ### Junkyu Lim ([Portfolio](https://limm-jk.notion.site/Junkyu-Lim-8cbe9e7ea1f74bd2b68adb53597fbf8b))
 
 - **Education**  
-Chungnam National Unversity / Computer Science Engineering (16.03~)  
-Google Korea Machine-Learning Bootcamp (20.10~21.01)  
+Chungnam National Unversity / Computer Science Engineering (16.03 ~ 22.02)  
+Google Korea Machine-Learning Bootcamp (20.10 ~ 21.01)  
 
 
 - **Career**  
-SI Analytics / Back-End Engineer Intern (21.03 - 21.08)
+Channel Corporation / Back-End Engineer (21.12 ~ now)    
+SI Analytics / Back-End Engineer Intern (21.03 ~ 21.08)
 
   
     
