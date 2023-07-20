@@ -4,17 +4,17 @@
 
 </div>
 
-### Junkyu Lim ([Portfolio](https://limm-jk.notion.site/Junkyu-Lim-8cbe9e7ea1f74bd2b68adb53597fbf8b))
+### Junkyu Lim ([Portfolio](https://limm-jk.notion.site/Junkyu-Lim-12a5750689cb4b39a430d4e2bf0619af))
 
-- **Education**  
+#### **Career**  
+**flex** / Product Engineer (BE) (23.06 ~ now)  
+**Channel Corporation** / Back-End Engineer (21.12 ~ 23.06)    
+**SI Analytic**s / Back-End Engineer Intern (21.03 ~ 21.08)
+
+
+#### **Education**  
 Chungnam National Unversity / Computer Science Engineering (16.03 ~ 22.02)  
 Google Korea Machine-Learning Bootcamp (20.10 ~ 21.01)  
-
-
-- **Career**  
-Channel Corporation / Back-End Engineer (21.12 ~ now)    
-SI Analytics / Back-End Engineer Intern (21.03 ~ 21.08)
-
   
     
       
